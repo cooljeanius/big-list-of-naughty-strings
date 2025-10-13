@@ -810,7 +810,7 @@ The quick brown fox... [Beeeep]
 #	Strings which crashed iMessage in various versions of iOS
 
 Powerلُلُصّبُلُلصّبُررً ॣ ॣh ॣ ॣ冗
-🏳0🌈️
+0️
 జ్ఞ‌ా
 
 #	Excel export vulnerabilities
@@ -897,3 +897,7 @@ TRAILER!!!
 # Due to CVE-2019-19781 many Citrix gateways were configured to forbid requests with paths containing '/vpns/'
 
 vpns
+
+# https://lists.gnu.org/archive/html/bug-gettext/2025-08/msg00014.html
+
+Joggröße
